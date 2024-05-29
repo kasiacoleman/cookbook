@@ -1,0 +1,23 @@
+body {font-family:Georgia, 'Times New Roman', Times, serif;}
+
+nav {
+    background-color: #d51212e6;
+    text-align: center;
+    padding: 20px;
+  }
+
+nav ul{list-style-type: none;}
+
+nav li {display:inline-block; margin-right: 50px;}
+
+
+nav a {color: #ebf5fb;text-decoration: none;font-size:40px;}
+
+.group {display:flex;}
+#girl {max-width: 300%;}
+#girl {flex-basis: 40%;}
+#welcometext {flex-basis: 60%; margin-right: 50px;}
+
+.fullrecipe{display:flex}
+.recipe {flex-basis: 60%;}
+.bigos{max-width: 50%;}
